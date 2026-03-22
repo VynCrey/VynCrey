@@ -58,10 +58,11 @@ https://landing-page-vyncrey.netlify.app/
 # 📫 Connect with Me
 
 GitHub
-https://github.com/VynCrey
+[(click)](https://github.com/VynCrey)
+
 
 LinkedIn
-[(Add your LinkedIn here)](https://www.linkedin.com/in/cristian-elias-gabriel-monzon/)
+[(click)](https://www.linkedin.com/in/cristian-elias-gabriel-monzon/)
 
 ---
 
