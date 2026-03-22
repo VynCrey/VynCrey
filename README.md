@@ -61,7 +61,7 @@ GitHub
 https://github.com/VynCrey
 
 LinkedIn
-(Add your LinkedIn here)
+[(Add your LinkedIn here)](https://www.linkedin.com/in/cristian-elias-gabriel-monzon/)
 
 ---
 
