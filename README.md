@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cristian
 
-Data Science & Artificial Intelligence student focused on **Machine Learning, Data Engineering and AI applications**.
+Data Science & Artificial Intelligence technical focused on **Machine Learning, Data Engineering and AI applications**.
 
 I enjoy building projects that combine **data processing, machine learning models and interactive applications**.
 
