@@ -73,15 +73,6 @@ El proyecto incluye autenticación de usuarios, verificación de correo, recuper
 
 [Ver aplicación](https://sin-luz-red.vercel.app/ingresar) · [Ver repositorio](https://github.com/VynCrey/sin-luz)
 
----
-
-### SIPCTM — Gestión para talleres mecánicos
-
-Sistema Inteligente de Planificación y Control para Talleres Mecánicos.
-
-El proyecto busca digitalizar la gestión de clientes, vehículos, órdenes de trabajo, repuestos y mano de obra. También contempla historial de reparaciones, reportes, notificaciones y estimación de tiempos mediante análisis de datos.
-
-**Tecnologías planificadas:** Python, FastAPI, PostgreSQL, Supabase, React y Machine Learning.
 
 ---
 
