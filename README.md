@@ -1,69 +1,115 @@
-# 👋 Hi, I'm Cristian
+# Cristian Monzón
 
-Data Science & Artificial Intelligence technical focused on **Machine Learning, Data Engineering and AI applications**.
+### Backend Python | Ciencia de Datos e Inteligencia Artificial
 
-I enjoy building projects that combine **data processing, machine learning models and interactive applications**.
+Soy estudiante del último año de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
 
----
-
-# 🚀 About Me
-
-• Data Science & AI student
-• Focused on Machine Learning and Data Engineering
-• Building AI and data-driven applications with Python
-
-Currently developing projects involving:
-
-• Recommendation systems
-• NLP and semantic embeddings
-• Data pipelines and ETL
-• AI web applications
+Me interesa el desarrollo backend, la ingeniería de datos y la creación de aplicaciones que resuelvan problemas concretos. Actualmente continúo fortaleciendo mis conocimientos en Python, APIs, bases de datos, automatización, inteligencia artificial y servicios en la nube.
 
 ---
 
-# 💻 Tech Stack
+## Perfil profesional
 
-Python
-SQL / MySQL
-Pandas
-NumPy
-Scikit-learn
-TensorFlow
-APIs
-ETL pipelines
-Streamlit
+Mi principal orientación es el desarrollo Backend con Python. También trabajo con procesamiento de datos, modelos de machine learning y desarrollo de aplicaciones web.
 
----
+Busco participar en proyectos donde pueda combinar programación, análisis de información y resolución de problemas.
 
-# 🧠 Featured Project
+Actualmente estoy profundizando en:
 
-### 🎬 AI Movie Recommendation System
-
-A machine learning system that recommends movies using **semantic similarity and NLP embeddings**.
-
-Live Demo
-https://huggingface.co/spaces/Cristiannnnnn/movie-recommender
-
-Repository
-https://github.com/VynCrey/ai-movie-recommender
+- Desarrollo de APIs con Python y FastAPI.
+- Diseño y consulta de bases de datos SQL.
+- Procesos ETL y construcción de pipelines de datos.
+- Automatización de tareas y servicios.
+- Machine Learning aplicado.
+- Docker, Git, GitHub y servicios en la nube.
 
 ---
 
-# 🌐 Portfolio
+## Tecnologías
 
-https://landing-page-vyncrey.netlify.app/
+### Backend y bases de datos
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### Datos e inteligencia artificial
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### Desarrollo web
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Herramientas y servicios
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 📫 Connect with Me
+## Proyectos destacados
 
-GitHub
-[(click)](https://github.com/VynCrey)
+### SIN LUZ
 
+PWA comunitaria desarrollada para registrar reportes de cortes de energía y visualizar información aproximada mediante un mapa de calor.
 
-LinkedIn
-[(click)](https://www.linkedin.com/in/cristian-elias-gabriel-monzon/)
+El proyecto incluye autenticación de usuarios, verificación de correo, recuperación de contraseña, geolocalización, reportes comunitarios, alertas, perfiles individuales y almacenamiento seguro en PostgreSQL mediante Supabase.
+
+**Tecnologías:** Next.js, React, TypeScript, Supabase, PostgreSQL, MapLibre, Tailwind CSS y Vercel.
+
+[Ver aplicación](https://sin-luz-red.vercel.app/ingresar) · [Ver repositorio](https://github.com/VynCrey/sin-luz)
 
 ---
 
-Always interested in collaborating on **AI, Machine Learning and Data projects**.
+### SIPCTM — Gestión para talleres mecánicos
+
+Sistema Inteligente de Planificación y Control para Talleres Mecánicos.
+
+El proyecto busca digitalizar la gestión de clientes, vehículos, órdenes de trabajo, repuestos y mano de obra. También contempla historial de reparaciones, reportes, notificaciones y estimación de tiempos mediante análisis de datos.
+
+**Tecnologías planificadas:** Python, FastAPI, PostgreSQL, Supabase, React y Machine Learning.
+
+---
+
+### Sistema de recomendación de películas
+
+Aplicación de Machine Learning que recomienda películas utilizando procesamiento de lenguaje natural, similitud semántica y embeddings.
+
+**Tecnologías:** Python, Pandas, Scikit-learn, NLP y Streamlit.
+
+[Ver repositorio](https://github.com/VynCrey/ai-movie-recommender)
+
+---
+
+## Objetivos actuales
+
+Actualmente estoy trabajando para consolidar un perfil orientado a:
+
+- Backend Python.
+- Data Engineering.
+- Machine Learning Engineering.
+- Automatización y desarrollo de soluciones con inteligencia artificial.
+
+Mi objetivo es continuar incorporando buenas prácticas de desarrollo, arquitectura, pruebas, seguridad y despliegue en la nube.
+
+---
+
+## Portafolio
+
+Podés consultar otros proyectos y trabajos en mi portafolio:
+
+[Visitar mi portafolio](https://landing-page-vyncrey.netlify.app/)
