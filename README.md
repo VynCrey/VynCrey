@@ -1,27 +1,31 @@
 # Cristian Monzón
 
-### Backend Python | Ciencia de Datos e Inteligencia Artificial
+### Backend Python Junior | Datos e Inteligencia Artificial aplicada
 
-Soy estudiante del último año de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
+Soy estudiante avanzado de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial del Instituto Tecnológico Beltrán. Actualmente curso las últimas cuatro materias y mi finalización está prevista para diciembre de 2026.
 
-Me interesa el desarrollo backend, la ingeniería de datos y la creación de aplicaciones que resuelvan problemas concretos. Actualmente continúo fortaleciendo mis conocimientos en Python, APIs, bases de datos, automatización, inteligencia artificial y servicios en la nube.
+Mi orientación principal es el desarrollo backend con Python. Trabajo con bases de datos, APIs, procesamiento de datos, automatizaciones y proyectos de inteligencia artificial orientados a resolver problemas concretos.
+
+En aplicaciones web, mi participación se enfoca principalmente en la integración entre la interfaz, las APIs, los servicios y las bases de datos, no en el desarrollo frontend especializado.
 
 ---
 
 ## Perfil profesional
 
-Mi principal orientación es el desarrollo Backend con Python. También trabajo con procesamiento de datos, modelos de machine learning y desarrollo de aplicaciones web.
+Actualmente continúo desarrollando conocimientos y experiencia práctica en:
 
-Busco participar en proyectos donde pueda combinar programación, análisis de información y resolución de problemas.
-
-Actualmente estoy profundizando en:
-
-- Desarrollo de APIs con Python y FastAPI.
+- Desarrollo backend con Python y FastAPI.
 - Diseño y consulta de bases de datos SQL.
-- Procesos ETL y construcción de pipelines de datos.
-- Automatización de tareas y servicios.
-- Machine Learning aplicado.
+- PostgreSQL, MySQL y Supabase.
+- Desarrollo e integración de APIs REST.
+- Procesamiento y análisis de datos con Python.
+- Machine Learning con Pandas y scikit-learn.
+- Automatizaciones con n8n.
+- RAG, LLM y arquitecturas multiagente en proyectos en desarrollo.
 - Docker, Git, GitHub y servicios en la nube.
+- Laboratorios de AWS con EC2, VPC y Security Groups.
+
+Busco oportunidades junior donde pueda aportar mis conocimientos en programación, datos y resolución de problemas mientras continúo desarrollándome profesionalmente.
 
 ---
 
@@ -29,35 +33,21 @@ Actualmente estoy profundizando en:
 
 ### Backend y bases de datos
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+`Python` · `FastAPI` · `APIs REST` · `SQL` · `PostgreSQL` · `MySQL` · `Supabase`
 
 ### Datos e inteligencia artificial
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+`Pandas` · `NumPy` · `scikit-learn` · `Machine Learning` · `NLP` · `RAG` · `Sistemas multiagente` · `Power BI básico`
 
-### Desarrollo web
+### Integración de aplicaciones web
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `MapLibre` · `Vercel`
 
-### Herramientas y servicios
+Estas tecnologías fueron utilizadas principalmente para integrar interfaces con autenticación, servicios, APIs y bases de datos dentro de proyectos colaborativos.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### Herramientas, automatización y nube
+
+`Git` · `GitHub` · `n8n` · `Docker` · `AWS EC2` · `AWS VPC` · `Security Groups` · `Linux`
 
 ---
 
@@ -67,40 +57,73 @@ Actualmente estoy profundizando en:
 
 PWA comunitaria desarrollada para registrar reportes de cortes de energía y visualizar información aproximada mediante un mapa de calor.
 
-El proyecto incluye autenticación de usuarios, verificación de correo, recuperación de contraseña, geolocalización, reportes comunitarios, alertas, perfiles individuales y almacenamiento seguro en PostgreSQL mediante Supabase.
+El proyecto incorpora autenticación, verificación de correo, recuperación de contraseña, sesiones, rutas protegidas, geolocalización, reportes comunitarios, alertas, perfiles de usuario y almacenamiento en PostgreSQL mediante Supabase.
 
-**Tecnologías:** Next.js, React, TypeScript, Supabase, PostgreSQL, MapLibre, Tailwind CSS y Vercel.
+Mi participación estuvo orientada principalmente a la integración de la aplicación con Supabase y PostgreSQL, la lógica de autenticación, los reportes, las alertas y las funciones de base de datos.
+
+**Tecnologías:** Next.js, React, TypeScript, Supabase, PostgreSQL, MapLibre, Tailwind CSS, n8n y Vercel.
 
 [Ver aplicación](https://sin-luz-red.vercel.app/ingresar) · [Ver repositorio](https://github.com/VynCrey/sin-luz)
-
 
 ---
 
 ### Sistema de recomendación de películas
 
-Aplicación de Machine Learning que recomienda películas utilizando procesamiento de lenguaje natural, similitud semántica y embeddings.
+Aplicación de Machine Learning que procesa información de películas y calcula similitudes para generar recomendaciones personalizadas.
 
-**Tecnologías:** Python, Pandas, Scikit-learn, NLP y Streamlit.
+El proyecto incluye preparación y análisis de datos, procesamiento de características y presentación de resultados mediante una interfaz desarrollada con Streamlit.
+
+**Tecnologías:** Python, Pandas, scikit-learn, NLP y Streamlit.
 
 [Ver repositorio](https://github.com/VynCrey/ai-movie-recommender)
 
 ---
 
-## Objetivos actuales
+### SupportOps AI
 
-Actualmente estoy trabajando para consolidar un perfil orientado a:
+Proyecto en desarrollo para asistir la gestión de tickets mediante una base de conocimiento RAG y una arquitectura multiagente.
 
-- Backend Python.
-- Data Engineering.
-- Machine Learning Engineering.
-- Automatización y desarrollo de soluciones con inteligencia artificial.
+La solución plantea agentes especializados en recopilación de información, generación de borradores, verificación y supervisión, manteniendo la decisión final en una persona.
 
-Mi objetivo es continuar incorporando buenas prácticas de desarrollo, arquitectura, pruebas, seguridad y despliegue en la nube.
+**Tecnologías en desarrollo:** Python, FastAPI, RAG, LLM, sistemas multiagente, PostgreSQL y APIs.
+
+---
+
+### SIPCTM
+
+Proyecto final en desarrollo para la planificación y el control de talleres mecánicos.
+
+Mi orientación dentro del proyecto corresponde al backend, el modelado de datos, las APIs y la futura estimación de tiempos a partir del historial de trabajos.
+
+**Tecnologías:** Python, FastAPI, PostgreSQL, Pandas y scikit-learn.
+
+---
+
+## Experiencia y habilidades transferibles
+
+Cuento con más de cinco años de experiencia en la industria metalúrgica, incluyendo programación y preparación de máquinas CNC y responsabilidades de coordinación como encargado.
+
+Esta trayectoria me permitió desarrollar:
+
+- Responsabilidad y organización.
+- Comunicación con equipos de trabajo.
+- Coordinación de tareas y prioridades.
+- Resolución de problemas y desvíos.
+- Pensamiento analítico.
+- Adaptación y aprendizaje autónomo.
+
+---
+
+## Objetivo profesional
+
+Mi objetivo principal es incorporarme como Backend Python Junior. También considero oportunidades de Data Engineering, Machine Learning Engineering y desarrollo de soluciones con inteligencia artificial.
+
+Busco seguir incorporando buenas prácticas de arquitectura, pruebas, seguridad, automatización y despliegue en la nube.
 
 ---
 
 ## Portafolio
 
-Podés consultar otros proyectos y trabajos en mi portafolio:
+Podés consultar mis proyectos y trabajos en:
 
 [Visitar mi portafolio](https://landing-page-vyncrey.netlify.app/)
