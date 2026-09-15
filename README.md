@@ -89,15 +89,6 @@ La solución plantea agentes especializados en recopilación de información, ge
 
 ---
 
-### SIPCTM
-
-Proyecto final en desarrollo para la planificación y el control de talleres mecánicos.
-
-Mi orientación dentro del proyecto corresponde al backend, el modelado de datos, las APIs y la futura estimación de tiempos a partir del historial de trabajos.
-
-**Tecnologías:** Python, FastAPI, PostgreSQL, Pandas y scikit-learn.
-
----
 
 ## Experiencia y habilidades transferibles
 
